@@ -21,7 +21,7 @@ void Widget::Create()
 	int citysizez = ui->CitySizeZ->value();
 	int xcoord = ui->XCoord->value();
 	int zcoord = ui->ZCoord->value();
-    int rotation = 0;
+	int rotation = 0;
 	int height = 0;
 	int pos_x = xcoord;
 	int pos_z = zcoord;
